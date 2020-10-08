@@ -302,12 +302,7 @@ namespace ArrayOperationsConsoleTest
             //    }                
             //}
             #endregion
-        }
-
-
-        
-
-        
+        }        
     }
 
 
