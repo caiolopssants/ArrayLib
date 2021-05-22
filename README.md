@@ -1,5 +1,5 @@
 # ArrayLib
-Process working with values, arrays and jagged array for algebric operations
+Library to creat and manage values, arrays and jagged arrays, applying into algebric operations.
 
 # Class ArrayLib
 This class contains some tools to build and manage a array or jagged array
